@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_9926_marketing_e.attendee_user" name="x_9926_marketing_e.attendee_user">6923a795db633200aa795c00cf96193d</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-23 19:27:17</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>2523a795db633200aa795c00cf96193f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>6923a795db633200aa795c00cf96193d</sys_name>
+        <sys_package display_value="Marketing Events Application" source="x_9926_marketing_e">a728d715db233200aa795c00cf96193d</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Marketing Events Application">a728d715db233200aa795c00cf96193d</sys_scope>
+        <sys_update_name>sys_embedded_help_role_2523a795db633200aa795c00cf96193f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-23 19:27:17</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

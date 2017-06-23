@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sysevent_email_template">
+    <sysevent_email_template action="INSERT_OR_UPDATE">
+        <collection>x_9926_marketing_e_attendee</collection>
+        <email_layout/>
+        <message/>
+        <message_html><![CDATA[<p><span style="color: #666666; font-family: 'Gotham SSm A', 'Gotham SSm B', Arial, Helvetica, sans-serif; font-size: 12px;">Dear: ${first_name},</span></p>
+<p><span style="font-size: 10pt;"><span style="color: #666666; font-family: 'Gotham SSm A', 'Gotham SSm B', Arial, Helvetica, sans-serif;"><br /></span>This is to confirm that you are registered for ${marketing_event.name}. We look forward to seeing you at the event. If you have any questions, please contact the event team at 1-888-555-1212.</span></p>
+<p class="p" style="box-sizing: border-box; margin: 1em 0px 10px; padding: 0px; color: #666666; font-family: 'Gotham SSm A', 'Gotham SSm B', Arial, Helvetica, sans-serif; font-size: 12px;"><span style="font-size: 10pt;">Thank you!</span></p>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>Marketing Event Registration</name>
+        <sms_alternate/>
+        <subject>Thank you for registering for ${marketing_event.name}</subject>
+        <sys_class_name>sysevent_email_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-23 20:18:53</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>daceaf5ddb633200aa795c00cf96197f</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Marketing Event Registration</sys_name>
+        <sys_package display_value="Marketing Events Application" source="x_9926_marketing_e">a728d715db233200aa795c00cf96193d</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Marketing Events Application">a728d715db233200aa795c00cf96193d</sys_scope>
+        <sys_update_name>sysevent_email_template_daceaf5ddb633200aa795c00cf96197f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-23 20:32:53</sys_updated_on>
+        <sys_version>2</sys_version>
+    </sysevent_email_template>
+</record_update>

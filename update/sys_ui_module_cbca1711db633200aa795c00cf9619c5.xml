@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Marketing Event">52a8db9ddb233200aa795c00cf96190f</application>
+        <filter/>
+        <name>Equipment Requests</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_9926_marketing_e.equipment_request_use</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-23 18:50:48</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cbca1711db633200aa795c00cf9619c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Equipment Requests</sys_name>
+        <sys_package display_value="Marketing Events Application" source="x_9926_marketing_e">a728d715db233200aa795c00cf96193d</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Marketing Events Application">a728d715db233200aa795c00cf96193d</sys_scope>
+        <sys_update_name>sys_ui_module_cbca1711db633200aa795c00cf9619c5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-23 18:50:48</sys_updated_on>
+        <table>x_9926_marketing_e_equipment_request</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
